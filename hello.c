@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("hello world\n");
+printf("hello to Jenkins! \n");
 return 0;
 }
